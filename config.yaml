@@ -1,0 +1,8 @@
+pose_model:
+  name: 'yolov8n-pose.pt'
+  folder: 'models'
+
+image: 'images/referee.png'
+
+videos:
+  bar_backflip: 'videos/bar_backflip.mp4'
