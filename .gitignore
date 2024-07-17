@@ -1,0 +1,14 @@
+# Ignorar carpetas de caché
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar el entorno virtual
+env/
+ENV/
+.venv/
+venv/
+
+
+videos/
