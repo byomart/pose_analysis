@@ -20,5 +20,6 @@ image_path = config['image']
 auxiliar.process_image(image_path, model_path, save_dir='results', project_name='referee_pose')
 
 
+
 # # video = config['videos']['bar_backflip']
 # # result = model(source = video, conf=0.5, show=True, save=True, project="results", name='bar_backflip')
