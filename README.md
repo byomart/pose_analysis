@@ -2,12 +2,13 @@
 
 
 <p align="center">
-<img width="416" alt="2" src="https://github.com/user-attachments/assets/f11cf4f6-d01c-4235-8b31-52b81c346de8">
+<img width="716" alt="2" src="https://github.com/user-attachments/assets/f11cf4f6-d01c-4235-8b31-52b81c346de8">
 </p>
 
 
-
-![referee_keypoints_distangle](https://github.com/user-attachments/assets/a0eb63f0-6314-46f3-9433-b380d41f5d13)
+<p align="center">
+<img width="616" alt="2" src="https://github.com/user-attachments/assets/a0eb63f0-6314-46f3-9433-b380d41f5d13">
+</p>
 
 
 
